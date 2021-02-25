@@ -3,3 +3,10 @@ div {
     height: 200px;
     background-color: pink;
 }
+
+ul,
+li {
+    text-align: center;
+    font-size: 22px;
+    color: red;
+}
